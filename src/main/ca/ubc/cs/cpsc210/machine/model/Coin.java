@@ -1,4 +1,3 @@
-package ca.ubc.cs.cpsc210.machine.model;
 
 /*
  * Represents a coin (one of loonie, quarter, dime & nickel).
