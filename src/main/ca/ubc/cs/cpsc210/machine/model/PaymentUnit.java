@@ -1,5 +1,3 @@
-package ca.ubc.cs.cpsc210.machine.model;
-
 import java.util.ArrayList;
 import java.util.List;
 
